@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eswarpavan.github.io/](https://eswarpavan.github.io/)
 
-- 💬 Ask me about **HTML,CSS,PYTHON,**
+- 💬 Ask me about **HTML,CSS,PYTHON,FIGMA**
 
 - 📫 How to reach me **eswarpavanonline@gmail.com**
 
